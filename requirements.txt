@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpie
+requests
+httpx
+psycopg2-binary 
+python-dotenv
+SQLAlchemy
+pydantic
+pytest
